@@ -1,0 +1,56 @@
+{
+  "auc_roc": 1.0,
+  "auprc": 1.0,
+  "f1_macro": 1.0,
+  "f1_weighted": 1.0,
+  "f1_per_class": [
+    1.0,
+    1.0
+  ],
+  "precision": 1.0,
+  "recall": 1.0,
+  "sensitivity": 1.0,
+  "specificity": 1.0,
+  "accuracy": 1.0,
+  "confusion_matrix": [
+    [
+      78,
+      0
+    ],
+    [
+      0,
+      189
+    ]
+  ],
+  "tn": 78,
+  "fp": 0,
+  "fn": 0,
+  "tp": 189,
+  "classification_report": {
+    "Non-Responder": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 78.0
+    },
+    "Responder": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 189.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 267.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 267.0
+    }
+  }
+}

@@ -1,0 +1,268 @@
+image_path,original_path,severity,response_label
+data/processed/PSORIASIS/pityriasis-rubra-pilaris-60.jpg,data/raw/PSORIASIS/pityriasis-rubra-pilaris-60.jpg,Severe,1
+data/processed/NORMAL SKIN/27.7.jpg,data/raw/NORMAL SKIN/27.7.jpg,Mild,0
+data/processed/NORMAL SKIN/img72.jpg,data/raw/NORMAL SKIN/img72.jpg,Mild,0
+data/processed/PSORIASIS/Psoriasis-Anus-1.jpg,data/raw/PSORIASIS/Psoriasis-Anus-1.jpg,Severe,1
+data/processed/NORMAL SKIN/27.4.jpg,data/raw/NORMAL SKIN/27.4.jpg,Mild,0
+data/processed/PSORIASIS/Axillary-Granular-Parakeratosis-8.jpg,data/raw/PSORIASIS/Axillary-Granular-Parakeratosis-8.jpg,Severe,1
+data/processed/NORMAL SKIN/img131.jpg,data/raw/NORMAL SKIN/img131.jpg,Mild,0
+data/processed/NORMAL SKIN/img515.jpg,data/raw/NORMAL SKIN/img515.jpg,Mild,0
+data/processed/PSORIASIS/psoriasis-scalp-25.jpg,data/raw/PSORIASIS/psoriasis-scalp-25.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Guttate-46.jpg,data/raw/PSORIASIS/Psoriasis-Guttate-46.jpg,Severe,1
+data/processed/PSORIASIS/seborrheic-dermatitis-14.jpg,data/raw/PSORIASIS/seborrheic-dermatitis-14.jpg,Severe,1
+data/processed/PSORIASIS/Palmoplantar-Keratoderma-3.jpg,data/raw/PSORIASIS/Palmoplantar-Keratoderma-3.jpg,Severe,1
+data/processed/NORMAL SKIN/img192.jpg,data/raw/NORMAL SKIN/img192.jpg,Mild,0
+data/processed/PSORIASIS/Psoriasis-penis-28.jpg,data/raw/PSORIASIS/Psoriasis-penis-28.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Guttate-50.jpg,data/raw/PSORIASIS/Psoriasis-Guttate-50.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-palms-soles-157.jpg,data/raw/PSORIASIS/psoriasis-palms-soles-157.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Sclerosus-Skin-120.jpg,data/raw/PSORIASIS/Lichen-Sclerosus-Skin-120.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-scalp-32.jpg,data/raw/PSORIASIS/psoriasis-scalp-32.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-palms-soles-170.jpg,data/raw/PSORIASIS/psoriasis-palms-soles-170.jpg,Severe,1
+data/processed/PSORIASIS/pityriasis-rubra-pilaris-28.jpg,data/raw/PSORIASIS/pityriasis-rubra-pilaris-28.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Planus-Oral-13.jpg,data/raw/PSORIASIS/Lichen-Planus-Oral-13.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Sclerosus-Penis-7.jpg,data/raw/PSORIASIS/Lichen-Sclerosus-Penis-7.jpg,Severe,1
+data/processed/NORMAL SKIN/img151.jpg,data/raw/NORMAL SKIN/img151.jpg,Mild,0
+data/processed/PSORIASIS/lichen-planus-161.jpg,data/raw/PSORIASIS/lichen-planus-161.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Guttate-20.jpg,data/raw/PSORIASIS/Psoriasis-Guttate-20.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-palms-soles-192.jpg,data/raw/PSORIASIS/psoriasis-palms-soles-192.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-scalp-87.jpg,data/raw/PSORIASIS/psoriasis-scalp-87.jpg,Severe,1
+data/processed/PSORIASIS/seborrheic-dermatitis-112.jpg,data/raw/PSORIASIS/seborrheic-dermatitis-112.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-penis-12.jpg,data/raw/PSORIASIS/Psoriasis-penis-12.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-scalp-33.jpg,data/raw/PSORIASIS/psoriasis-scalp-33.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Sclerosus-Skin-91.jpg,data/raw/PSORIASIS/Lichen-Sclerosus-Skin-91.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Chronic-Plaque-159.jpg,data/raw/PSORIASIS/Psoriasis-Chronic-Plaque-159.jpg,Severe,1
+data/processed/PSORIASIS/08PsoriasisGroin1.jpg,data/raw/PSORIASIS/08PsoriasisGroin1.jpg,Severe,1
+data/processed/NORMAL SKIN/img484.png,data/raw/NORMAL SKIN/img484.png,Mild,0
+data/processed/PSORIASIS/Psoriasis-vulva-2.jpg,data/raw/PSORIASIS/Psoriasis-vulva-2.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-pustular-generalized-31.jpg,data/raw/PSORIASIS/psoriasis-pustular-generalized-31.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Planus-Drug-7.jpg,data/raw/PSORIASIS/Lichen-Planus-Drug-7.jpg,Severe,1
+data/processed/NORMAL SKIN/img534.jpg,data/raw/NORMAL SKIN/img534.jpg,Mild,0
+data/processed/PSORIASIS/psoriasis-erythrodermic-39.jpg,data/raw/PSORIASIS/psoriasis-erythrodermic-39.jpg,Severe,1
+data/processed/PSORIASIS/pityriasis-rosea-20.jpg,data/raw/PSORIASIS/pityriasis-rosea-20.jpg,Severe,1
+data/processed/PSORIASIS/pityriasis-rubra-pilaris-33.jpg,data/raw/PSORIASIS/pityriasis-rubra-pilaris-33.jpg,Severe,1
+data/processed/NORMAL SKIN/30.10.jpg,data/raw/NORMAL SKIN/30.10.jpg,Mild,0
+data/processed/PSORIASIS/Lichen-Sclerosus-Skin-102.jpg,data/raw/PSORIASIS/Lichen-Sclerosus-Skin-102.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Sclerosus-Skin-76.jpg,data/raw/PSORIASIS/Lichen-Sclerosus-Skin-76.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Planus-Oral-20.jpg,data/raw/PSORIASIS/Lichen-Planus-Oral-20.jpg,Severe,1
+data/processed/PSORIASIS/lichen-planus-210.jpg,data/raw/PSORIASIS/lichen-planus-210.jpg,Severe,1
+data/processed/PSORIASIS/pityriasis-rubra-pilaris-57.jpg,data/raw/PSORIASIS/pityriasis-rubra-pilaris-57.jpg,Severe,1
+data/processed/PSORIASIS/lichen-planus-211.jpg,data/raw/PSORIASIS/lichen-planus-211.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-scalp-48.jpg,data/raw/PSORIASIS/psoriasis-scalp-48.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Sclerosus-Penis-11.jpg,data/raw/PSORIASIS/Lichen-Sclerosus-Penis-11.jpg,Severe,1
+data/processed/NORMAL SKIN/20.8.jpg,data/raw/NORMAL SKIN/20.8.jpg,Mild,0
+data/processed/PSORIASIS/psoriasis-erythrodermic-38.jpg,data/raw/PSORIASIS/psoriasis-erythrodermic-38.jpg,Severe,1
+data/processed/PSORIASIS/08SebDermOK011021.jpg,data/raw/PSORIASIS/08SebDermOK011021.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Guttate-126.jpg,data/raw/PSORIASIS/Psoriasis-Guttate-126.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-palms-soles-162.jpg,data/raw/PSORIASIS/psoriasis-palms-soles-162.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Chronic-Plaque-128.jpg,data/raw/PSORIASIS/Psoriasis-Chronic-Plaque-128.jpg,Severe,1
+data/processed/NORMAL SKIN/Image_51.jpg,data/raw/NORMAL SKIN/Image_51.jpg,Mild,0
+data/processed/PSORIASIS/lichen-planus-vaginal-10.jpg,data/raw/PSORIASIS/lichen-planus-vaginal-10.jpg,Severe,1
+data/processed/PSORIASIS/lichen-planus-172.jpg,data/raw/PSORIASIS/lichen-planus-172.jpg,Severe,1
+data/processed/NORMAL SKIN/29.5.jpg,data/raw/NORMAL SKIN/29.5.jpg,Mild,0
+data/processed/PSORIASIS/Lichen-Sclerosus-Penis-18.jpg,data/raw/PSORIASIS/Lichen-Sclerosus-Penis-18.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-pustular-generalized-21.jpg,data/raw/PSORIASIS/psoriasis-pustular-generalized-21.jpg,Severe,1
+data/processed/NORMAL SKIN/img225.jpg,data/raw/NORMAL SKIN/img225.jpg,Mild,0
+data/processed/PSORIASIS/Psoriasis-inversus-21.jpg,data/raw/PSORIASIS/Psoriasis-inversus-21.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-penis-27.jpg,data/raw/PSORIASIS/Psoriasis-penis-27.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-palms-soles-167.jpg,data/raw/PSORIASIS/psoriasis-palms-soles-167.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-scalp-64.jpg,data/raw/PSORIASIS/psoriasis-scalp-64.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-pustular-generalized-44.jpg,data/raw/PSORIASIS/psoriasis-pustular-generalized-44.jpg,Severe,1
+data/processed/PSORIASIS/pityriasis-rubra-pilaris-59.jpg,data/raw/PSORIASIS/pityriasis-rubra-pilaris-59.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-penis-4.jpg,data/raw/PSORIASIS/Psoriasis-penis-4.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-scalp-40.jpg,data/raw/PSORIASIS/psoriasis-scalp-40.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-erythrodermic-1.jpg,data/raw/PSORIASIS/psoriasis-erythrodermic-1.jpg,Severe,1
+data/processed/NORMAL SKIN/26.2.jpg,data/raw/NORMAL SKIN/26.2.jpg,Mild,0
+data/processed/PSORIASIS/08PsoriasisIntertrigo.jpg,data/raw/PSORIASIS/08PsoriasisIntertrigo.jpg,Severe,1
+data/processed/NORMAL SKIN/img509.jpg,data/raw/NORMAL SKIN/img509.jpg,Mild,0
+data/processed/NORMAL SKIN/img292.jpg,data/raw/NORMAL SKIN/img292.jpg,Mild,0
+data/processed/NORMAL SKIN/img150.jpg,data/raw/NORMAL SKIN/img150.jpg,Mild,0
+data/processed/PSORIASIS/Lichen-Planus-Oral-7.jpg,data/raw/PSORIASIS/Lichen-Planus-Oral-7.jpg,Severe,1
+data/processed/NORMAL SKIN/img133.jpg,data/raw/NORMAL SKIN/img133.jpg,Mild,0
+data/processed/PSORIASIS/Lichen-Nitidus-11.jpg,data/raw/PSORIASIS/Lichen-Nitidus-11.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-penis-13.jpg,data/raw/PSORIASIS/Psoriasis-penis-13.jpg,Severe,1
+data/processed/NORMAL SKIN/6.8.jpg,data/raw/NORMAL SKIN/6.8.jpg,Mild,0
+data/processed/PSORIASIS/08sebKerm11220410.jpg,data/raw/PSORIASIS/08sebKerm11220410.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-inversus-12.jpg,data/raw/PSORIASIS/Psoriasis-inversus-12.jpg,Severe,1
+data/processed/PSORIASIS/08sebDermLids012405.jpg,data/raw/PSORIASIS/08sebDermLids012405.jpg,Severe,1
+data/processed/NORMAL SKIN/img524.jpg,data/raw/NORMAL SKIN/img524.jpg,Mild,0
+data/processed/PSORIASIS/Pityriasis-Lichenoides-41.jpg,data/raw/PSORIASIS/Pityriasis-Lichenoides-41.jpg,Severe,1
+data/processed/PSORIASIS/Pityriasis-Lichenoides-30.jpg,data/raw/PSORIASIS/Pityriasis-Lichenoides-30.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Planus-Oral-2.jpg,data/raw/PSORIASIS/Lichen-Planus-Oral-2.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Chronic-Plaque-93.jpg,data/raw/PSORIASIS/Psoriasis-Chronic-Plaque-93.jpg,Severe,1
+data/processed/NORMAL SKIN/img367.jpg,data/raw/NORMAL SKIN/img367.jpg,Mild,0
+data/processed/PSORIASIS/Lichen-Planus-Oral-21.jpg,data/raw/PSORIASIS/Lichen-Planus-Oral-21.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Planus-Oral-1.jpg,data/raw/PSORIASIS/Lichen-Planus-Oral-1.jpg,Severe,1
+data/processed/NORMAL SKIN/img153.jpg,data/raw/NORMAL SKIN/img153.jpg,Mild,0
+data/processed/PSORIASIS/pityriasis-rosea-17.jpg,data/raw/PSORIASIS/pityriasis-rosea-17.jpg,Severe,1
+data/processed/NORMAL SKIN/img554.jpg,data/raw/NORMAL SKIN/img554.jpg,Mild,0
+data/processed/NORMAL SKIN/img585.jpg,data/raw/NORMAL SKIN/img585.jpg,Mild,0
+data/processed/PSORIASIS/pityriasis-rubra-pilaris-14.jpg,data/raw/PSORIASIS/pityriasis-rubra-pilaris-14.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Nitidus-18.jpg,data/raw/PSORIASIS/Lichen-Nitidus-18.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Interferon-Injection-08230423.jpg,data/raw/PSORIASIS/Psoriasis-Interferon-Injection-08230423.jpg,Severe,1
+data/processed/NORMAL SKIN/27.9.jpg,data/raw/NORMAL SKIN/27.9.jpg,Mild,0
+data/processed/PSORIASIS/Lichen-Sclerosus-Skin-71.jpg,data/raw/PSORIASIS/Lichen-Sclerosus-Skin-71.jpg,Severe,1
+data/processed/NORMAL SKIN/img441.jpg,data/raw/NORMAL SKIN/img441.jpg,Mild,0
+data/processed/NORMAL SKIN/15.6.jpg,data/raw/NORMAL SKIN/15.6.jpg,Mild,0
+data/processed/PSORIASIS/07acne06270532.jpg,data/raw/PSORIASIS/07acne06270532.jpg,Severe,1
+data/processed/PSORIASIS/lichen-planus-137.jpg,data/raw/PSORIASIS/lichen-planus-137.jpg,Severe,1
+data/processed/PSORIASIS/Pityriasis-Lichenoides-3.jpg,data/raw/PSORIASIS/Pityriasis-Lichenoides-3.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Planus-Drug-4.jpg,data/raw/PSORIASIS/Lichen-Planus-Drug-4.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-inversus-30.jpg,data/raw/PSORIASIS/Psoriasis-inversus-30.jpg,Severe,1
+data/processed/PSORIASIS/pityriasis-rubra-pilaris-27.jpg,data/raw/PSORIASIS/pityriasis-rubra-pilaris-27.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Planus-Hypertrophic-18.jpg,data/raw/PSORIASIS/Lichen-Planus-Hypertrophic-18.jpg,Severe,1
+data/processed/NORMAL SKIN/img311.jpg,data/raw/NORMAL SKIN/img311.jpg,Mild,0
+data/processed/PSORIASIS/lichen-planus-114.jpg,data/raw/PSORIASIS/lichen-planus-114.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-arthritis-2.jpg,data/raw/PSORIASIS/Psoriasis-arthritis-2.jpg,Severe,1
+data/processed/NORMAL SKIN/img252.jpg,data/raw/NORMAL SKIN/img252.jpg,Mild,0
+data/processed/PSORIASIS/08SebDermq.jpg,data/raw/PSORIASIS/08SebDermq.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-inversus-13.jpg,data/raw/PSORIASIS/Psoriasis-inversus-13.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-infant-5.jpg,data/raw/PSORIASIS/Psoriasis-infant-5.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Nitidus-23.jpg,data/raw/PSORIASIS/Lichen-Nitidus-23.jpg,Severe,1
+data/processed/PSORIASIS/08lichenPlanusTongue1122051.jpg,data/raw/PSORIASIS/08lichenPlanusTongue1122051.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Planus-Drug-22.jpg,data/raw/PSORIASIS/Lichen-Planus-Drug-22.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Planus-Drug-19.jpg,data/raw/PSORIASIS/Lichen-Planus-Drug-19.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-inversus-26.jpg,data/raw/PSORIASIS/Psoriasis-inversus-26.jpg,Severe,1
+data/processed/PSORIASIS/08PsoriasisAnalPink1216.jpg,data/raw/PSORIASIS/08PsoriasisAnalPink1216.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-inversus-33.jpg,data/raw/PSORIASIS/Psoriasis-inversus-33.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Hand-30.jpg,data/raw/PSORIASIS/Psoriasis-Hand-30.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Sclerosis-Vulva-12.jpg,data/raw/PSORIASIS/Lichen-Sclerosis-Vulva-12.jpg,Severe,1
+data/processed/NORMAL SKIN/14.3.jpg,data/raw/NORMAL SKIN/14.3.jpg,Mild,0
+data/processed/PSORIASIS/13tineaAmiantacea0821061.jpg,data/raw/PSORIASIS/13tineaAmiantacea0821061.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Chronic-Plaque-99.jpg,data/raw/PSORIASIS/Psoriasis-Chronic-Plaque-99.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Planus-Penis-10.jpg,data/raw/PSORIASIS/Lichen-Planus-Penis-10.jpg,Severe,1
+data/processed/PSORIASIS/08LichenPlanusTongue.jpg,data/raw/PSORIASIS/08LichenPlanusTongue.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Chronic-Plaque-186.jpg,data/raw/PSORIASIS/Psoriasis-Chronic-Plaque-186.jpg,Severe,1
+data/processed/PSORIASIS/pityriasis-rubra-pilaris-2.jpg,data/raw/PSORIASIS/pityriasis-rubra-pilaris-2.jpg,Severe,1
+data/processed/PSORIASIS/lichen-planus-105.jpg,data/raw/PSORIASIS/lichen-planus-105.jpg,Severe,1
+data/processed/NORMAL SKIN/img199.jpg,data/raw/NORMAL SKIN/img199.jpg,Mild,0
+data/processed/PSORIASIS/psoriasis-palms-soles-117.jpg,data/raw/PSORIASIS/psoriasis-palms-soles-117.jpg,Severe,1
+data/processed/PSORIASIS/Axillary-Granular-Parakeratosis-6.jpg,data/raw/PSORIASIS/Axillary-Granular-Parakeratosis-6.jpg,Severe,1
+data/processed/NORMAL SKIN/img573.jpg,data/raw/NORMAL SKIN/img573.jpg,Mild,0
+data/processed/NORMAL SKIN/img391.jpg,data/raw/NORMAL SKIN/img391.jpg,Mild,0
+data/processed/PSORIASIS/Lichen-Planus-Oral-40.jpg,data/raw/PSORIASIS/Lichen-Planus-Oral-40.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Hand-4.jpg,data/raw/PSORIASIS/Psoriasis-Hand-4.jpg,Severe,1
+data/processed/NORMAL SKIN/img556.jpg,data/raw/NORMAL SKIN/img556.jpg,Mild,0
+data/processed/PSORIASIS/Lichen-Nitidus-14.jpg,data/raw/PSORIASIS/Lichen-Nitidus-14.jpg,Severe,1
+data/processed/PSORIASIS/Pityriasis-Lichenoides-50.jpg,data/raw/PSORIASIS/Pityriasis-Lichenoides-50.jpg,Severe,1
+data/processed/NORMAL SKIN/img399.jpg,data/raw/NORMAL SKIN/img399.jpg,Mild,0
+data/processed/NORMAL SKIN/19.1.png,data/raw/NORMAL SKIN/19.1.png,Mild,0
+data/processed/PSORIASIS/Psoriasis-penis-20.jpg,data/raw/PSORIASIS/Psoriasis-penis-20.jpg,Severe,1
+data/processed/NORMAL SKIN/img17.jpg,data/raw/NORMAL SKIN/img17.jpg,Mild,0
+data/processed/PSORIASIS/seborrheic-dermatitis-141.jpg,data/raw/PSORIASIS/seborrheic-dermatitis-141.jpg,Severe,1
+data/processed/PSORIASIS/seborrheic-dermatitis-85.jpg,data/raw/PSORIASIS/seborrheic-dermatitis-85.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Planus-Drug-20.jpg,data/raw/PSORIASIS/Lichen-Planus-Drug-20.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-scalp-47.jpg,data/raw/PSORIASIS/psoriasis-scalp-47.jpg,Severe,1
+data/processed/NORMAL SKIN/Image_17.1.jpg,data/raw/NORMAL SKIN/Image_17.1.jpg,Mild,0
+data/processed/PSORIASIS/lichen-planus-127.jpg,data/raw/PSORIASIS/lichen-planus-127.jpg,Severe,1
+data/processed/PSORIASIS/pityriasis-rubra-pilaris-29.jpg,data/raw/PSORIASIS/pityriasis-rubra-pilaris-29.jpg,Severe,1
+data/processed/NORMAL SKIN/11.1.jpg,data/raw/NORMAL SKIN/11.1.jpg,Mild,0
+data/processed/NORMAL SKIN/13.9.jpg,data/raw/NORMAL SKIN/13.9.jpg,Mild,0
+data/processed/PSORIASIS/Lichen-Planus-Drug-10.jpg,data/raw/PSORIASIS/Lichen-Planus-Drug-10.jpg,Severe,1
+data/processed/NORMAL SKIN/img67.jpg,data/raw/NORMAL SKIN/img67.jpg,Mild,0
+data/processed/PSORIASIS/seborrheic-dermatitis-137.jpg,data/raw/PSORIASIS/seborrheic-dermatitis-137.jpg,Severe,1
+data/processed/NORMAL SKIN/12.5.png,data/raw/NORMAL SKIN/12.5.png,Mild,0
+data/processed/PSORIASIS/psoriasis-scalp-8.jpg,data/raw/PSORIASIS/psoriasis-scalp-8.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Guttate-108.jpg,data/raw/PSORIASIS/Psoriasis-Guttate-108.jpg,Severe,1
+data/processed/PSORIASIS/seborrheic-dermatitis-109.jpg,data/raw/PSORIASIS/seborrheic-dermatitis-109.jpg,Severe,1
+data/processed/PSORIASIS/seborrheic-dermatitis-134.jpg,data/raw/PSORIASIS/seborrheic-dermatitis-134.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Guttate-102.jpg,data/raw/PSORIASIS/Psoriasis-Guttate-102.jpg,Severe,1
+data/processed/PSORIASIS/lichen-planus-108.jpg,data/raw/PSORIASIS/lichen-planus-108.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-palms-soles-99.jpg,data/raw/PSORIASIS/psoriasis-palms-soles-99.jpg,Severe,1
+data/processed/PSORIASIS/Pityriasis-Lichenoides-4.jpg,data/raw/PSORIASIS/Pityriasis-Lichenoides-4.jpg,Severe,1
+data/processed/PSORIASIS/seborrheic-dermatitis-125.jpg,data/raw/PSORIASIS/seborrheic-dermatitis-125.jpg,Severe,1
+data/processed/NORMAL SKIN/img375.jpg,data/raw/NORMAL SKIN/img375.jpg,Mild,0
+data/processed/PSORIASIS/psoriasis-scalp-78.jpg,data/raw/PSORIASIS/psoriasis-scalp-78.jpg,Severe,1
+data/processed/NORMAL SKIN/img293.jpg,data/raw/NORMAL SKIN/img293.jpg,Mild,0
+data/processed/PSORIASIS/Psoriasis-nails-18.jpg,data/raw/PSORIASIS/Psoriasis-nails-18.jpg,Severe,1
+data/processed/NORMAL SKIN/img344.jpg,data/raw/NORMAL SKIN/img344.jpg,Mild,0
+data/processed/PSORIASIS/Lichen-Planus-Hypertrophic-8.jpg,data/raw/PSORIASIS/Lichen-Planus-Hypertrophic-8.jpg,Severe,1
+data/processed/NORMAL SKIN/img575.jpg,data/raw/NORMAL SKIN/img575.jpg,Mild,0
+data/processed/NORMAL SKIN/img302.jpg,data/raw/NORMAL SKIN/img302.jpg,Mild,0
+data/processed/PSORIASIS/Psoriasis-penis-9.jpg,data/raw/PSORIASIS/Psoriasis-penis-9.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Planus-Hypertrophic-10.jpg,data/raw/PSORIASIS/Lichen-Planus-Hypertrophic-10.jpg,Severe,1
+data/processed/NORMAL SKIN/3.4.jpg,data/raw/NORMAL SKIN/3.4.jpg,Mild,0
+data/processed/NORMAL SKIN/img374.jpg,data/raw/NORMAL SKIN/img374.jpg,Mild,0
+data/processed/PSORIASIS/08SebDermScalp.jpg,data/raw/PSORIASIS/08SebDermScalp.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Histology-23.jpg,data/raw/PSORIASIS/Psoriasis-Histology-23.jpg,Severe,1
+data/processed/NORMAL SKIN/img453.jpg,data/raw/NORMAL SKIN/img453.jpg,Mild,0
+data/processed/PSORIASIS/Lichen-Sclerosis-Vulva-29.jpg,data/raw/PSORIASIS/Lichen-Sclerosis-Vulva-29.jpg,Severe,1
+data/processed/NORMAL SKIN/img97.jpg,data/raw/NORMAL SKIN/img97.jpg,Mild,0
+data/processed/NORMAL SKIN/img1 (2).jpg,data/raw/NORMAL SKIN/img1 (2).jpg,Mild,0
+data/processed/PSORIASIS/pityriasis-rosea-100.jpg,data/raw/PSORIASIS/pityriasis-rosea-100.jpg,Severe,1
+data/processed/PSORIASIS/Palmoplantar-Keratoderma-1.jpg,data/raw/PSORIASIS/Palmoplantar-Keratoderma-1.jpg,Severe,1
+data/processed/PSORIASIS/Pityriasis-Lichenoides-19.jpg,data/raw/PSORIASIS/Pityriasis-Lichenoides-19.jpg,Severe,1
+data/processed/NORMAL SKIN/img123.png,data/raw/NORMAL SKIN/img123.png,Mild,0
+data/processed/NORMAL SKIN/17.7.jpg,data/raw/NORMAL SKIN/17.7.jpg,Mild,0
+data/processed/PSORIASIS/psoriasis-palms-soles-153.jpg,data/raw/PSORIASIS/psoriasis-palms-soles-153.jpg,Severe,1
+data/processed/PSORIASIS/Palmoplantar-Keratoderma-6.jpg,data/raw/PSORIASIS/Palmoplantar-Keratoderma-6.jpg,Severe,1
+data/processed/PSORIASIS/reiter-syndrome-20.jpg,data/raw/PSORIASIS/reiter-syndrome-20.jpg,Severe,1
+data/processed/PSORIASIS/08PsoriasisOnycholysis1.jpg,data/raw/PSORIASIS/08PsoriasisOnycholysis1.jpg,Severe,1
+data/processed/PSORIASIS/pityriasis-rubra-pilaris-30.jpg,data/raw/PSORIASIS/pityriasis-rubra-pilaris-30.jpg,Severe,1
+data/processed/PSORIASIS/8Psoriasis2-130.jpg,data/raw/PSORIASIS/8Psoriasis2-130.jpg,Severe,1
+data/processed/PSORIASIS/lichen-planus-189.jpg,data/raw/PSORIASIS/lichen-planus-189.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Guttate-4.jpg,data/raw/PSORIASIS/Psoriasis-Guttate-4.jpg,Severe,1
+data/processed/NORMAL SKIN/img433.jpg,data/raw/NORMAL SKIN/img433.jpg,Mild,0
+data/processed/NORMAL SKIN/img558.jpg,data/raw/NORMAL SKIN/img558.jpg,Mild,0
+data/processed/PSORIASIS/Psoriasis-treatment-5.jpg,data/raw/PSORIASIS/Psoriasis-treatment-5.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Planus-Oral-41.jpg,data/raw/PSORIASIS/Lichen-Planus-Oral-41.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Guttate-21.jpg,data/raw/PSORIASIS/Psoriasis-Guttate-21.jpg,Severe,1
+data/processed/PSORIASIS/pityriasis-rosea-153.jpg,data/raw/PSORIASIS/pityriasis-rosea-153.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Histology-13.jpg,data/raw/PSORIASIS/Psoriasis-Histology-13.jpg,Severe,1
+data/processed/PSORIASIS/08PsoriasisNailSkin.jpg,data/raw/PSORIASIS/08PsoriasisNailSkin.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Hand-47.jpg,data/raw/PSORIASIS/Psoriasis-Hand-47.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-penis-2.jpg,data/raw/PSORIASIS/Psoriasis-penis-2.jpg,Severe,1
+data/processed/PSORIASIS/08sebKerm1122046.jpg,data/raw/PSORIASIS/08sebKerm1122046.jpg,Severe,1
+data/processed/NORMAL SKIN/img358.jpg,data/raw/NORMAL SKIN/img358.jpg,Mild,0
+data/processed/PSORIASIS/psoriasis-palms-soles-19.jpg,data/raw/PSORIASIS/psoriasis-palms-soles-19.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Sclerosus-Penis-31.jpg,data/raw/PSORIASIS/Lichen-Sclerosus-Penis-31.jpg,Severe,1
+data/processed/PSORIASIS/Lichen-Sclerosus-Penis-27.jpg,data/raw/PSORIASIS/Lichen-Sclerosus-Penis-27.jpg,Severe,1
+data/processed/NORMAL SKIN/img497.jpg,data/raw/NORMAL SKIN/img497.jpg,Mild,0
+data/processed/NORMAL SKIN/img73.jpg,data/raw/NORMAL SKIN/img73.jpg,Mild,0
+data/processed/PSORIASIS/lichen-planus-155.jpg,data/raw/PSORIASIS/lichen-planus-155.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-pustular-generalized-39.jpg,data/raw/PSORIASIS/psoriasis-pustular-generalized-39.jpg,Severe,1
+data/processed/NORMAL SKIN/img586.jpg,data/raw/NORMAL SKIN/img586.jpg,Mild,0
+data/processed/PSORIASIS/psoriasis-scalp-53.jpg,data/raw/PSORIASIS/psoriasis-scalp-53.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-scalp-73.jpg,data/raw/PSORIASIS/psoriasis-scalp-73.jpg,Severe,1
+data/processed/NORMAL SKIN/img124.png,data/raw/NORMAL SKIN/img124.png,Mild,0
+data/processed/NORMAL SKIN/Image_12.jpg,data/raw/NORMAL SKIN/Image_12.jpg,Mild,0
+data/processed/NORMAL SKIN/img38.jpg,data/raw/NORMAL SKIN/img38.jpg,Mild,0
+data/processed/PSORIASIS/Lichen-Planus-Penis-13.jpg,data/raw/PSORIASIS/Lichen-Planus-Penis-13.jpg,Severe,1
+data/processed/NORMAL SKIN/img572.jpg,data/raw/NORMAL SKIN/img572.jpg,Mild,0
+data/processed/PSORIASIS/erythrokeratodermia-variabilis-2.jpg,data/raw/PSORIASIS/erythrokeratodermia-variabilis-2.jpg,Severe,1
+data/processed/NORMAL SKIN/img487.jpg,data/raw/NORMAL SKIN/img487.jpg,Mild,0
+data/processed/PSORIASIS/Pityriasis-Lichenoides-45.jpg,data/raw/PSORIASIS/Pityriasis-Lichenoides-45.jpg,Severe,1
+data/processed/NORMAL SKIN/img405.jpg,data/raw/NORMAL SKIN/img405.jpg,Mild,0
+data/processed/NORMAL SKIN/img455.jpg,data/raw/NORMAL SKIN/img455.jpg,Mild,0
+data/processed/PSORIASIS/psoriasis-palms-soles-18.jpg,data/raw/PSORIASIS/psoriasis-palms-soles-18.jpg,Severe,1
+data/processed/NORMAL SKIN/img196.jpg,data/raw/NORMAL SKIN/img196.jpg,Mild,0
+data/processed/PSORIASIS/Psoriasis-inversus-23.jpg,data/raw/PSORIASIS/Psoriasis-inversus-23.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-palms-soles-130.jpg,data/raw/PSORIASIS/psoriasis-palms-soles-130.jpg,Severe,1
+data/processed/NORMAL SKIN/img506.jpg,data/raw/NORMAL SKIN/img506.jpg,Mild,0
+data/processed/NORMAL SKIN/img417.jpg,data/raw/NORMAL SKIN/img417.jpg,Mild,0
+data/processed/PSORIASIS/Lichen-Sclerosis-Vulva-25.jpg,data/raw/PSORIASIS/Lichen-Sclerosis-Vulva-25.jpg,Severe,1
+data/processed/NORMAL SKIN/img266.jpg,data/raw/NORMAL SKIN/img266.jpg,Mild,0
+data/processed/PSORIASIS/Psoriasis-nails-15.jpg,data/raw/PSORIASIS/Psoriasis-nails-15.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Chronic-Plaque-177.jpg,data/raw/PSORIASIS/Psoriasis-Chronic-Plaque-177.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-scalp-57.jpg,data/raw/PSORIASIS/psoriasis-scalp-57.jpg,Severe,1
+data/processed/PSORIASIS/pityriasis-rosea-105.jpg,data/raw/PSORIASIS/pityriasis-rosea-105.jpg,Severe,1
+data/processed/NORMAL SKIN/img24.jpg,data/raw/NORMAL SKIN/img24.jpg,Mild,0
+data/processed/NORMAL SKIN/img538.jpg,data/raw/NORMAL SKIN/img538.jpg,Mild,0
+data/processed/PSORIASIS/pityriasis-rosea-151.jpg,data/raw/PSORIASIS/pityriasis-rosea-151.jpg,Severe,1
+data/processed/NORMAL SKIN/img592.jpg,data/raw/NORMAL SKIN/img592.jpg,Mild,0
+data/processed/PSORIASIS/psoriasis-palms-soles-154.jpg,data/raw/PSORIASIS/psoriasis-palms-soles-154.jpg,Severe,1
+data/processed/NORMAL SKIN/img79.jpg,data/raw/NORMAL SKIN/img79.jpg,Mild,0
+data/processed/PSORIASIS/lichen-striatus-1.jpg,data/raw/PSORIASIS/lichen-striatus-1.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-scalp-55.jpg,data/raw/PSORIASIS/psoriasis-scalp-55.jpg,Severe,1
+data/processed/PSORIASIS/lichen-planus-107.jpg,data/raw/PSORIASIS/lichen-planus-107.jpg,Severe,1
+data/processed/PSORIASIS/pityriasis-rubra-pilaris-48.jpg,data/raw/PSORIASIS/pityriasis-rubra-pilaris-48.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Histology-14.jpg,data/raw/PSORIASIS/Psoriasis-Histology-14.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-nails-11.jpg,data/raw/PSORIASIS/Psoriasis-nails-11.jpg,Severe,1
+data/processed/PSORIASIS/pityriasis-rosea-86.jpg,data/raw/PSORIASIS/pityriasis-rosea-86.jpg,Severe,1
+data/processed/NORMAL SKIN/img277.jpg,data/raw/NORMAL SKIN/img277.jpg,Mild,0
+data/processed/PSORIASIS/Psoriasis-Guttate-23.jpg,data/raw/PSORIASIS/Psoriasis-Guttate-23.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Chronic-Plaque-126.jpg,data/raw/PSORIASIS/Psoriasis-Chronic-Plaque-126.jpg,Severe,1
+data/processed/PSORIASIS/reiter-syndrome-9.jpg,data/raw/PSORIASIS/reiter-syndrome-9.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-scalp-72.jpg,data/raw/PSORIASIS/psoriasis-scalp-72.jpg,Severe,1
+data/processed/PSORIASIS/Psoriasis-Chronic-Plaque-121.jpg,data/raw/PSORIASIS/Psoriasis-Chronic-Plaque-121.jpg,Severe,1
+data/processed/PSORIASIS/psoriasis-pustular-generalized-28.jpg,data/raw/PSORIASIS/psoriasis-pustular-generalized-28.jpg,Severe,1
+data/processed/NORMAL SKIN/img87.jpg,data/raw/NORMAL SKIN/img87.jpg,Mild,0

@@ -1,0 +1,129 @@
+# =============================================================================
+# Psoriasis Biologic Response Prediction — Configuration
+# =============================================================================
+
+seed: 42
+
+# ── Data ─────────────────────────────────────────────────────────────────────
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  splits_dir: data/splits
+  image_size: 224
+  imagenet_mean: [0.485, 0.456, 0.406]
+  imagenet_std: [0.229, 0.224, 0.225]
+  blur_threshold: 100          # Laplacian variance below this → blurry
+  duplicate_hash_threshold: 5  # Hamming distance for near-duplicate detection
+  train_ratio: 0.70
+  val_ratio: 0.15
+  test_ratio: 0.15
+  num_workers: 4
+
+# ── Augmentation (training set only) ────────────────────────────────────────
+augmentation:
+  horizontal_flip: true
+  vertical_flip: true
+  brightness: 0.2
+  contrast: 0.2
+  saturation: 0.1
+  rotation_limit: 15
+  crop_scale_min: 0.8
+  crop_scale_max: 1.0
+  cutmix_alpha: 0.4
+  mixup_alpha: 0.4
+
+# ── Training ────────────────────────────────────────────────────────────────
+training:
+  batch_size: 32
+  epochs: 50
+  early_stopping_patience: 7
+  early_stopping_monitor: val_auc
+  label_smoothing: 0.1
+  mixed_precision: false        # Disabled for MPS (Apple Silicon) compatibility
+  gradient_clip_max_norm: 1.0
+
+# ── Optimizer ───────────────────────────────────────────────────────────────
+optimizer:
+  name: adamw
+  backbone_lr: 1.0e-4
+  head_lr: 1.0e-3
+  weight_decay: 0.01
+
+# ── Scheduler ───────────────────────────────────────────────────────────────
+scheduler:
+  name: cosine_annealing_warm_restarts
+  T_0: 10
+  T_mult: 1
+  eta_min: 1.0e-6
+
+# ── Models ──────────────────────────────────────────────────────────────────
+models:
+  efficientnet:
+    name: efficientnet_b3
+    pretrained: true
+    unfreeze_blocks: 3
+    dropout: 0.4
+    head_dims: [1536, 512, 256, 2]
+
+  vit:
+    name: vit_base_patch16_224
+    pretrained: true
+    lora_rank: 8
+    lora_alpha: 16
+    dropout: 0.3
+    head_dims: [768, 256, 2]
+
+  resnet50:
+    name: resnet50
+    pretrained: true
+    fine_tune_layers: 2
+
+  densenet121:
+    name: densenet121
+    pretrained: true
+    full_fine_tune: true
+
+  vgg16:
+    name: vgg16
+    pretrained: true
+    fine_tune_fc_only: true
+
+# ── Optuna Hyperparameter Search ────────────────────────────────────────────
+optuna:
+  n_trials: 50
+  sampler: tpe
+  pruner: median
+  search_space:
+    lr: [1.0e-5, 1.0e-3]          # log-uniform range
+    dropout: [0.2, 0.5]            # uniform range
+    weight_decay: [1.0e-4, 1.0e-1] # log-uniform range
+    batch_size: [16, 32, 64]       # categorical
+  search_epochs: 15                # shortened epoch count during search
+
+# ── Cross-Validation ───────────────────────────────────────────────────────
+cross_validation:
+  n_folds: 5
+  stratified: true
+
+# ── Weights & Biases ───────────────────────────────────────────────────────
+wandb:
+  enabled: false           # set to true to enable W&B logging
+  project: psoriasis-biologic-response
+  entity: null             # set to your W&B username
+
+# ── Paths ───────────────────────────────────────────────────────────────────
+paths:
+  checkpoints: checkpoints/
+  results: results/
+  figures: results/figures/
+  logs: logs/
+
+# ── Label Mapping ──────────────────────────────────────────────────────────
+label_mapping:
+  # Severity → Binary response proxy (grounded in PASI thresholds)
+  # PASI < 10  → Non-Responder (0) : does not typically qualify for biologics
+  # PASI ≥ 10  → Responder (1)     : qualifies for biologic therapy
+  Mild: 0
+  Moderate: 1
+  Severe: 1
+  class_names: ["Non-Responder", "Responder"]
